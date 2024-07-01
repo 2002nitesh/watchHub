@@ -183,10 +183,7 @@ and also combines the tweet functionality from twitter into it.A video streaming
     npm install
     ```
 
-3. **Set up environment variables:**
-    Create a .env in root of project and fill in the required values in the .env file using .env.sample file
-
-4. **Start the server:**
+3. **Start the server:**
 
     ```bash
     npm run dev
